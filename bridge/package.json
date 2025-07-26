@@ -1,9 +1,0 @@
-{
-  "name": "beammp-rcon-bridge",
-  "version": "1.0.0",
-  "main": "rcon-bridge.js",
-  "dependencies": {},
-  "scripts": {
-    "start": "node rcon-bridge.js"
-  }
-}
